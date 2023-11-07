@@ -6,6 +6,8 @@ Welcome to my CodeX Marketing Data Analysis Project Portfolio! In this project, 
 
 This Project is part of a challenge organized by Codebasics.io wherein CodeX a fictional company recently launched their energy drink in 10 cities across India and wishes to increase brand awareness, market share, and product development. To achieve these objectives, the marketing team conducted a comprehensive survey, collecting responses from 10,000 individuals in the target cities. As a marketing data analyst, my responsibility was to analyze this survey data and extract meaningful insights that would aid the team in making informed decisions.
 
+**Dashboard Link:**  https://www.novypro.com/project/market-research-analytics-power-bi
+
 **Key Highlights**
 
 Domain: Food & Beverage (F&B)
