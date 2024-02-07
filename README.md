@@ -1,10 +1,10 @@
 # Marketing Survey Analysis
 
-Welcome to my CodeX Marketing Data Analysis Project Portfolio! In this project, I have undertaken the task of providing valuable insights to the marketing team at CodeX, a German beverage company, in order to enhance its presence in the Indian market. The primary goal of this project is to leverage survey data from 10 cities in India to drive actionable decisions and strategies.
+In this project, I have undertaken the task of providing valuable insights to the marketing team at CodeX, a German beverage company, to enhance its presence in the Indian market. The primary goal of this project is to leverage survey data from 10 cities in India to drive actionable decisions and strategies.
 
 **Project Overview**
 
-This Project is part of a challenge organized by Codebasics.io wherein CodeX a fictional company recently launched their energy drink in 10 cities across India and wishes to increase brand awareness, market share, and product development. To achieve these objectives, the marketing team conducted a comprehensive survey, collecting responses from 10,000 individuals in the target cities. As a marketing data analyst, my responsibility was to analyze this survey data and extract meaningful insights that would aid the team in making informed decisions.
+This Project is part of a challenge organized by Codebasics.io wherein CodeX a fictional company recently launched their energy drink in 10 cities across India and wishes to increase brand awareness, market share, and product development. The marketing team conducted a comprehensive survey to achieve these objectives, collecting responses from 10,000 individuals in the target cities. As a marketing data analyst, I was responsible for analysing this survey data and extracting meaningful insights that would aid the team in making informed decisions.
 
 **Dashboard Link:**  https://www.novypro.com/project/market-research-analytics-power-bi
 
@@ -23,7 +23,7 @@ Tools Used: SQL for primary data analysis, Power BI for visualization
 With a 10% market share, Codex Energy Drink faces stiff competition from the top market leaders, Cola Coka and Bepsi, who command 25% and 21% of the market share, respectively. 
 - To strengthen our market presence and appeal to consumers, we must focus on branding and market positioning.
 - Sports/exercise activities are the typical consumption situations for our energy drinks. **Targeting fitness enthusiasts** and sponsoring sports events can reinforce our brand's association with an active lifestyle.
-- Consumer behavior indicates a **growing shift towards healthier choices**. To capitalize on this trend, we should seize the opportunity to position ourselves as a healthy brand. Reducing the sugar content in our energy drinks aligns with consumer preferences for healthier options and can boost our brand's appeal And highlighting the presence of caffeine and vitamins in our energy drinks can resonate with consumers looking for energy-boosting and nutritional benefits.
+- Consumer behavior indicates a **growing shift towards healthier choices**. To capitalize on this trend, we should seize the opportunity to position ourselves as a healthy brand. Reducing the sugar content in our energy drinks aligns with consumer preferences for healthier options and can boost our brand's appeal, highlighting the presence of caffeine and vitamins in our energy drinks can resonate with consumers looking for energy-boosting and nutritional benefits.
 
 **Brand Perception**
 
